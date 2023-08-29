@@ -1,4 +1,4 @@
 - 👋 Olá, sou o @RyanKaue
-- 👀 Dev Back-End
+- 👀 Dev Back-End developer
 - 🌱 PHP and Python
 
